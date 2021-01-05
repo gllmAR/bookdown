@@ -1,4 +1,4 @@
-
+.DS_Store
 # don't push local rendered files in master branch
 _book/
 _bookdown_files/
